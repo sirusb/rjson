@@ -4,7 +4,7 @@ Date: 2022-01-06
 Title: JSON for R
 Author: Alex Couture-Beil <rjson_pkg@mofo.ca>
 Maintainer: Alex Couture-Beil <rjson_pkg@mofo.ca>
-Depends: R (>= 4.0.0)
+Depends: R (>= 3.6.0)
 Description: Converts R object into JSON objects and vice-versa.
 URL: https://github.com/alexcb/rjson
 License: GPL-2
